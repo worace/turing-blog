@@ -32,8 +32,7 @@ don't scale in the same ways as software and content.
 So where can 10x returns come from? **Student tuition**. For every dollar an investor puts
 in they want *ten student dollars back*. That tuition paid into the system, instead
 of paying for their instructors and facilities, pays investors. It compels the school to
-raise tuition and cut costs. You raise your student/teacher ratio and use less
-experienced instructors. Money sucked out of the ecosystem, diverted to the investors.
+raise tuition and cut costs. It pushes student/teacher ratios up and instructor experience down. Money sucked out of the ecosystem, diverted to the investors.
 
 **What's right for investors is orthogonal to what's right for students**. If we claim
 to be focused on the best possible outcomes for our students *and* take investment, then 
